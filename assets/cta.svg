@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60" role="img" aria-label="Ver portfólio">
+  <rect x="1" y="1" width="298" height="58" rx="12" fill="#7CC4FF" fill-opacity="0.08" stroke="#7CC4FF" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="1" y="1" width="298" height="58" rx="12" fill="none" stroke="#7CC4FF" stroke-width="2" stroke-dasharray="50 590"><animate attributeName="stroke-dashoffset" from="0" to="-640" dur="4s" repeatCount="indefinite"/></rect>
+  <text x="46" y="37" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="600" fill="#7CC4FF">Ver meu portfólio</text>
+  <text x="232" y="38" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#7CC4FF">→<animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="1.6s" repeatCount="indefinite"/></text>
+</svg>

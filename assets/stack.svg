@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Tecnologias">
+  <rect x="0.5" y="0.5" width="439" height="199" rx="14" fill="#161b22" stroke="#30363d"/><text x="22" y="34" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="13" fill="#7CC4FF">// front-end</text><rect x="22" y="42" width="26" height="2" rx="1" fill="#7CC4FF" opacity="0.6"/><g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.20s" dur="0.5s" fill="freeze"/>
+    <rect x="22" y="56" width="76.4" height="36" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="37" cy="74" r="3.5" fill="#7CC4FF"/>
+    <text x="50" y="79" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="14" fill="#e6edf3">HTML</text>
+  </g><g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.32s" dur="0.5s" fill="freeze"/>
+    <rect x="108.4" y="56" width="67.8" height="36" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="123.4" cy="74" r="3.5" fill="#7CC4FF"/>
+    <text x="136.4" y="79" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="14" fill="#e6edf3">CSS</text>
+  </g><g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.44s" dur="0.5s" fill="freeze"/>
+    <rect x="186.2" y="56" width="128.0" height="36" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="201.2" cy="74" r="3.5" fill="#7CC4FF"/>
+    <text x="214.2" y="79" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="14" fill="#e6edf3">JavaScript</text>
+  </g><g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.56s" dur="0.5s" fill="freeze"/>
+    <rect x="22" y="102" width="128.0" height="36" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="37" cy="120" r="3.5" fill="#7CC4FF"/>
+    <text x="50" y="125" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="14" fill="#e6edf3">TypeScript</text>
+  </g><g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.68s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.68s" dur="0.5s" fill="freeze"/>
+    <rect x="160" y="102" width="102.2" height="36" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="175" cy="120" r="3.5" fill="#7CC4FF"/>
+    <text x="188" y="125" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="14" fill="#e6edf3">Next.js</text>
+  </g><rect x="470.5" y="0.5" width="429" height="93" rx="14" fill="#161b22" stroke="#30363d"/><text x="492" y="30" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="13" fill="#7CC4FF">// back-end</text><rect x="492" y="38" width="26" height="2" rx="1" fill="#7CC4FF" opacity="0.6"/><g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.80s" dur="0.5s" fill="freeze"/>
+    <rect x="492" y="52" width="67.8" height="36" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="507" cy="70" r="3.5" fill="#7CC4FF"/>
+    <text x="520" y="75" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="14" fill="#e6edf3">PHP</text>
+  </g><rect x="470.5" y="106.5" width="429" height="93" rx="14" fill="#161b22" stroke="#30363d"/><text x="492" y="136" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="13" fill="#7CC4FF">// banco de dados</text><rect x="492" y="144" width="26" height="2" rx="1" fill="#7CC4FF" opacity="0.6"/><g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.92s" dur="0.5s" fill="freeze"/>
+    <rect x="492" y="158" width="85.0" height="36" rx="9" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="507" cy="176" r="3.5" fill="#7CC4FF"/>
+    <text x="520" y="181" font-family="'Fira Code','JetBrains Mono',Consolas,'SFMono-Regular',monospace" font-size="14" fill="#e6edf3">MySQL</text>
+  </g>
+</svg>
